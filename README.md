@@ -1,6 +1,6 @@
 # SCAG: a 3D branch angle extraction method
 
-Songyin Zhang<sup>1</sup>, Yinmeng Song<sup>1,2</sup>, Ran Ou<sup>1,2</sup>, Yiqiang Liu<sup>1,3</sup>, Shaochen Li<sup>1</sup>, Yanjun Su<sup>4,5</sup>, Jiang, Dong<sup>1,2,3</sup>, Yanfeng Ding<sup>1,2,3</sup>, Junyi Gai<sup>1,2</sup>, Jiaoping Zhang<sup>1,2</sup>, and Shichao Jin<sup>1,2,3*</sup>
+Songyin Zhang<sup>1</sup>, Yinmeng Song<sup>1,2</sup>, Ran Ou<sup>1,2</sup>, Yiqiang Liu<sup>1,3</sup>, Shaochen Li<sup>1</sup>, Yanjun Su<sup>4,5</sup>, Jiang Dong<sup>1,2,3</sup>, Yanfeng Ding<sup>1,2,3</sup>, Junyi Gai<sup>1,2</sup>, Jiaoping Zhang<sup>1,2</sup>, and Shichao Jin<sup>1,2,3*</sup>
 
 <sup>1</sup>Crop Phenomics Research Centre, Academy for Advanced Interdisciplinary Studies, Collaborative Innovation Centre for Modern Crop Production co-sponsored by Province and Ministry, College of Agriculture, Nanjing Agricultural University, Nanjing 210095, China<br>
 
